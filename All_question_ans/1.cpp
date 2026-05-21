@@ -9,7 +9,7 @@ int main()
     cout << "enter your number ";
     cin >> x;
 
-    while (x > 0)
+    while (x > 0`)
     {
         rem = x % 2;
         x = x / 2;
