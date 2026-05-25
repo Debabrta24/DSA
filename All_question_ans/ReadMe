@@ -102,7 +102,7 @@ https://leetcode.com/problems/sqrtx/
 6. Happy Number // ❌❌❌
 https://leetcode.com/problems/happy-number/
 
-7. Ugly Number
+7. Ugly Number  // done ✅
 https://leetcode.com/problems/ugly-number/
 
 8. Perfect Number
@@ -151,28 +151,28 @@ https://www.geeksforgeeks.org/c-program-print-patterns/
 
 ## Bit Manipulation Problems
 
-1. Single Number
+1. Single Number  //done ❌❌
 https://leetcode.com/problems/single-number/
 
 2. Missing Number
 https://leetcode.com/problems/missing-number/
 
-3. Sum of Two Integers
+3. Sum of Two Integers //done✅✅
 https://leetcode.com/problems/sum-of-two-integers/
 
-4. Hamming Distance
+4. Hamming Distance   //done✅✅
 https://leetcode.com/problems/hamming-distance/
 
-5. Counting Bits
+5. Counting Bits  //done✅✅
 https://leetcode.com/problems/counting-bits/
 
-6. Number Complement
+6. Number Complement //done✅✅
 https://leetcode.com/problems/number-complement/
 
-7. Reverse Bits
+7. Reverse Bits //done✅✅
 https://leetcode.com/problems/reverse-bits/
 
-8. Power of Two
+8. Power of Two //done✅✅
 https://leetcode.com/problems/power-of-two/
 
 
@@ -215,7 +215,7 @@ https://www.geeksforgeeks.org/write-a-program-to-reverse-digits-of-a-number/
 
 ## Arrays (Next Step)
 
-1. Two Sum
+1. Two Sum //done ✅ but revision needed 
 https://leetcode.com/problems/two-sum/
 
 2. Maximum Subarray
