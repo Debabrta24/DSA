@@ -110,33 +110,43 @@
 //     return 0;
 // }
 
-// .................queue............................................
+// // .................queue............................................
 
+// #include <iostream>
+// #include <queue>
+// using namespace std;
+// int main()
+// {
+
+//     queue<int> q;
+//     q.push(1);
+//     q.push(2);
+//     q.push(3);
+//     while (!q.empty())
+//     {
+//         cout << q.front() << " ";
+//         q.pop();
+//     }
+//     cout << endl;
+//     return 0;
+// }
+
+// priority queue ...................................
 #include <iostream>
-#include <queue>
 using namespace std;
 int main()
 {
-
-    queue<int> q;
-    q.push(1);
-    q.push(2);
+    priority_queue<intcvector<int>api> q;
+    q.push(5);
+    q.push(4);
     q.push(3);
     while (!q.empty())
     {
-        cout << q.front() << " ";
+        cout << q.top() << " ";
         q.pop();
     }
     cout << endl;
     return 0;
 }
 
-//priority queue ...................................
-#include <iostream>
-using namespace std;
-int main()
-{
-
-
-     return 0;
-}
+// 50
