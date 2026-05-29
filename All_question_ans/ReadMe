@@ -239,10 +239,10 @@ https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
 8. Linear Search
 https://www.geeksforgeeks.org/linear-search/
 
-9. Binary Search
+9. Binary Search  //done ✅
 https://leetcode.com/problems/binary-search/
 
-10. Rotate Array
+10. Rotate Array  //done ✅
 https://leetcode.com/problems/rotate-array/
 
 
@@ -250,13 +250,13 @@ https://leetcode.com/problems/rotate-array/
 
 ## Strings (Next Step)
 
-1. Valid Anagram
+1. Valid Anagram  //done ✅
 https://leetcode.com/problems/valid-anagram/
 
-2. Valid Palindrome
+2. Valid Palindrome  //done ✅
 https://leetcode.com/problems/valid-palindrome/
 
-3. Reverse String
+3. Reverse String //done ✅
 https://leetcode.com/problems/reverse-string/
 
 4. First Unique Character in a String
@@ -265,7 +265,7 @@ https://leetcode.com/problems/first-unique-character-in-a-string/
 5. Length of Last Word
 https://leetcode.com/problems/length-of-last-word/
 
-6. String to Integer (atoi)
+6. String to Integer (atoi) //
 https://leetcode.com/problems/string-to-integer-atoi/
 
 7. Check Palindrome String
