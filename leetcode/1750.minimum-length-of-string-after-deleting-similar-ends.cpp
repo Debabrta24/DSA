@@ -1,0 +1,29 @@
+/*
+ * @lc app=leetcode id=1464 lang=cpp
+ *
+ * [1464] Maximum Product of Two Elements in an Array
+ */
+
+
+class Solution {
+public:
+    int minimumLength(string s) {
+         int i =0,j = s.length()-1;
+        while(i<j && s[i]==s[j]){
+            char ch =s[i];
+            while(i<j && s[i]==ch){
+                i++;
+
+            }
+               while(i<=j && s[j]==ch){
+                j--;
+
+            }
+        }
+        return j-i+1;
+    }
+};
+
+
+
+// @lc code=start
